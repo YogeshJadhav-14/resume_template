@@ -1,0 +1,277 @@
+.total {
+    position: relative;
+    background-color: white;
+    width: 100%;
+    height: 850px;
+
+}
+.left {
+    position: relative;
+    background-color: white;
+    width: 300px;
+    height: 900px;
+    margin-left: 50px;
+    display: inline-block;
+}
+.pic {
+    background-color:;
+    width: 300px;
+    height: 200px;
+    position: relative;
+
+}
+.name {
+    position: absolute;
+    top: 160px;
+    left: 10px;
+    font-size: 18px;
+}
+.prof {
+    position: relative;
+    top: 0px;
+    padding-left: 10px;
+    background-color: white;
+    height: 115px;
+    font-size:12px ;
+    padding-top: 10px;
+}
+.skills {
+    position: relative;
+    top: 0px;
+    padding-left: 10px;
+    background-color: white;
+    margin-top: 0px;
+    height: 270px;
+}
+.adobe{
+    font-size: 13px;
+
+}
+.back{
+    position: relative;
+    background-color: seashell;
+    border-radius: 100px;
+    height: 15px;
+    width: 280px;
+
+}
+.in {
+    position: relative;
+    top:0px ;
+    width: 260px;
+    background-color: darkcyan;
+    border-radius: 100px;
+    height: 15px;
+
+}
+.back2 {
+    position: relative;
+    background-color: seashell;
+    border-radius: 100px;
+    height: 15px;
+    width: 280px;
+
+}
+.in2 {
+    position: relative;
+    top:0px ;
+    width: 220px;
+    background-color: darkcyan;
+    border-radius: 100px;
+    height: 15px;
+
+}
+.back3 {
+    position: relative;
+    background-color: seashell;
+    border-radius: 100px;
+    height: 15px;
+    width: 280px;
+
+}
+.in3 {
+    position: relative;
+    top:0px ;
+    width: 180px;
+    background-color: darkcyan;
+    border-radius: 100px;
+    height: 15px;
+
+}
+.back4 {
+    position: relative;
+    background-color: seashell;
+    border-radius: 100px;
+    height: 15px;
+    width: 280px;
+
+}
+.in4 {
+    position: relative;
+    top:0px ;
+    width: 155px;
+    background-color: darkcyan;
+    border-radius: 100px;
+    height: 15px;
+
+}
+.percentage {
+    position: relative;
+    top: 1.5px;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+}
+.language {position: relative;
+    top: 0px;
+    padding-left: 10px;
+    background-color:white;
+    margin-top: 0px;
+    height: 270px;
+
+}
+.back5{
+    position: relative;
+    background-color: seashell;
+    border-radius: 100px;
+    height: 15px;
+    width: 280px;
+
+}
+.in5{
+    position: relative;
+    background-color: darkcyan;
+    border-radius: 100px;
+    height: 15px;
+    width: 280px;
+
+}
+.back6{
+    position: relative;
+    background-color:seashell;
+    border-radius: 100px;
+    height: 15px;
+    width: 280px;
+
+}
+.in6{
+    position: relative;
+    background-color: darkcyan;
+    border-radius: 100px;
+    height: 15px;
+    width: 170px;
+
+}
+.back7{
+    position: relative;
+    background-color: seashell;
+    border-radius: 100px;
+    height: 15px;
+    width: 280px;
+    
+}
+.in7{
+    position: relative;
+    background-color: darkcyan;
+    border-radius: 100px;
+    height: 15px;
+    width: 110px;
+
+
+}
+.footer {
+    background-color: darkcyan;
+    margin-top: 0px;
+    padding-top: 20px;
+    font-size: 13px;
+    text-align: center;
+    position: relative;
+    top: 0px;
+    width: 100%;
+    height: 80px;
+}
+.right{
+    position: absolute;
+    left: 360px;
+    background-color: white;
+    display: inline-block;
+
+    height: 200px;
+    width: 540px;
+}
+.work{
+    position: absolute;
+    color: dimgrey;
+    top: 20px;
+    font-size: 22px;
+    padding-left: 30px;
+}
+.front {
+    position: relative;
+    color: dimgrey;
+    font-size:13px ;
+    top: 70px;
+    padding-left: 20px;
+}
+.web {
+    position: relative;
+    background-color: white;
+    height: 130px;
+    top: 80px;
+}
+.develop {
+    font-size: 13px;
+    padding-top: 20px;
+    padding-left: 20px;
+    color: dimgrey;
+}
+.graphic {
+    position: relative;
+    background-color: white;
+    height: 120px;
+    top: 80px;
+}
+.design {
+    font-size: 13px;
+    padding-top: 20px;
+    padding-left: 20px;
+    color: dimgrey;
+}
+.edu{
+    
+    position: relative;
+    background-color: white;
+    height: 150px;
+    
+}
+.educ{
+    font-size:22px ;
+    padding-left: 20px;
+    padding-top: 15px;
+    color: dimgrey;
+
+}
+.london{
+    position: relative;
+    background-color: white;
+    height: 100px;
+    padding-top: 15px;
+}
+.busi{
+    font-size: 13px;
+    padding-left: 20px;
+    color: dimgrey;
+}
+.school{
+    
+    position: relative;
+    background-color: white;
+    height: 150px;
+    
+}
+.code{
+    font-size:13px ;
+    padding-left: 20px;
+    padding-top: 15px;
+    color: dimgrey;
+}
